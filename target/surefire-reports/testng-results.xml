@@ -2,12 +2,19 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-23T18:59:15 IST" name="Surefire suite" finished-at="2023-11-23T18:59:34 IST" duration-ms="18980">
+  <suite started-at="2023-11-23T22:28:13 IST" name="Surefire suite" finished-at="2023-11-23T22:29:17 IST" duration-ms="64078">
     <groups>
     </groups>
-    <test started-at="2023-11-23T18:59:15 IST" name="Surefire test" finished-at="2023-11-23T18:59:34 IST" duration-ms="18980">
+    <test started-at="2023-11-23T22:28:13 IST" name="Surefire test" finished-at="2023-11-23T22:29:17 IST" duration-ms="64078">
       <class name="MavenTestNG.MavenTestNG.AppTest">
-        <test-method signature="startBrowser()[pri:0, instance:MavenTestNG.MavenTestNG.AppTest@65b3f4a4]" started-at="2023-11-23T18:59:15 IST" name="startBrowser" finished-at="2023-11-23T18:59:34 IST" duration-ms="18842" status="PASS">
+        <test-method signature="startBrowser(java.lang.String)[pri:0, instance:MavenTestNG.MavenTestNG.AppTest@2a266d09]" started-at="2023-11-23T22:28:13 IST" name="startBrowser" finished-at="2023-11-23T22:29:17 IST" duration-ms="63927" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startBrowser -->
